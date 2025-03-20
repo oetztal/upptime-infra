@@ -30,7 +30,7 @@ sites:
     check: "tcp-ping"
     url: mail.$INTERNAL_DOMAIN
     port: 143
-    ipv6: false
+    ipv6: true
   - name: Metrics
     url: https://mail.$INTERNAL_DOMAIN
     ipv6: true
