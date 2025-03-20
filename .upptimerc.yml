@@ -39,7 +39,7 @@ status-website:
   name: Infra status
   navbar:
     - title: Status
-      href: /
+      href: /upptime-infra
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
