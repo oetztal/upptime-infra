@@ -25,12 +25,12 @@ sites:
     check: "tcp-ping"
     url: mail.$INTERNAL_DOMAIN
     port: 587
-    ipv6: true
+    ipv6: false
   - name: Mail IMAP
     check: "tcp-ping"
     url: mail.$INTERNAL_DOMAIN
     port: 143
-    ipv6: true
+    ipv6: false
   - name: Metrics
     url: https://mail.$INTERNAL_DOMAIN
     ipv6: true
