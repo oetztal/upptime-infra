@@ -131,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imap",
     "status": "up",
-    "uptime": "88.91%",
-    "uptimeDay": "88.91%",
-    "uptimeWeek": "88.91%",
-    "uptimeMonth": "88.91%",
-    "uptimeYear": "88.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 112,
     "timeDay": 112,
     "timeWeek": 112,
     "timeMonth": 112,
     "timeYear": 112,
-    "dailyMinutesDown": {
-      "2025-03-20": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Metrics",
