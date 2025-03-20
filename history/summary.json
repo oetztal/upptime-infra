@@ -113,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-submission",
     "status": "up",
-    "uptime": "1.64%",
-    "uptimeDay": "1.64%",
-    "uptimeWeek": "1.64%",
-    "uptimeMonth": "1.64%",
-    "uptimeYear": "1.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 134,
     "timeDay": 134,
     "timeWeek": 134,
     "timeMonth": 134,
     "timeYear": 134,
-    "dailyMinutesDown": {
-      "2025-03-20": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mail IMAP",
@@ -133,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imap",
     "status": "up",
-    "uptime": "1.12%",
-    "uptimeDay": "1.12%",
-    "uptimeWeek": "1.12%",
-    "uptimeMonth": "1.12%",
-    "uptimeYear": "1.12%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 135,
     "timeDay": 135,
     "timeWeek": 135,
     "timeMonth": 135,
     "timeYear": 135,
-    "dailyMinutesDown": {
-      "2025-03-20": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Metrics",
