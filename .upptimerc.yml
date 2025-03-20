@@ -34,6 +34,9 @@ sites:
     url: https://sso.$INTERNAL_DOMAIN/realms/$INTERNAL_REALM/.well-known/openid-configuration
     ipv6: true
 
+assignees:
+  - wuan
+
 status-website:
   baseUrl: /upptime-infra
   name: Infra status
