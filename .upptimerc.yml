@@ -46,7 +46,7 @@ sites:
     url: https://sonar.$INTERNAL_DOMAIN
     ipv6: true
   - name: Documentation
-    url: https://docs.$INTERNAL_DOMAIN
+    url: https://doc.$INTERNAL_DOMAIN
     ipv6: true
   - name: Wiki
     url: https://wiki.$INTERNAL_DOMAIN
