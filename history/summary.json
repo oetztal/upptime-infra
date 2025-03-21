@@ -221,19 +221,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/doc.$internal_domain.ico",
     "slug": "documentation",
     "status": "up",
-    "uptime": "6.26%",
-    "uptimeDay": "6.26%",
-    "uptimeWeek": "6.26%",
-    "uptimeMonth": "6.26%",
-    "uptimeYear": "6.26%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 487,
     "timeDay": 487,
     "timeWeek": 487,
     "timeMonth": 487,
     "timeYear": 487,
-    "dailyMinutesDown": {
-      "2025-03-21": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wiki",
