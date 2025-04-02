@@ -1,7 +1,7 @@
 url: https://doc.$INTERNAL_DOMAIN
-status: down
-code: 500
-responseTime: 455
-lastUpdated: 2025-04-02T12:37:30.728Z
+status: up
+code: 200
+responseTime: 657
+lastUpdated: 2025-04-02T14:47:28.281Z
 startTime: 2025-03-21T08:03:52.913Z
 generator: Upptime <https://github.com/upptime/upptime>
