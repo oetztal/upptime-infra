@@ -220,18 +220,20 @@
     "url": "https://doc.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/doc.$internal_domain.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 482,
-    "timeWeek": 552,
-    "timeMonth": 552,
-    "timeYear": 552,
-    "dailyMinutesDown": {}
+    "time": 545,
+    "timeDay": 469,
+    "timeWeek": 540,
+    "timeMonth": 545,
+    "timeYear": 545,
+    "dailyMinutesDown": {
+      "2025-04-02": 0
+    }
   },
   {
     "name": "Wiki",
