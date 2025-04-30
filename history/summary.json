@@ -184,9 +184,9 @@
     "url": "https://pad.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/pad.$internal_domain.ico",
     "slug": "pad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,16 +195,18 @@
     "timeWeek": 513,
     "timeMonth": 543,
     "timeYear": 539,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-30": 0
+    }
   },
   {
     "name": "Sonar",
     "url": "https://sonar.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/sonar.$internal_domain.ico",
     "slug": "sonar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -213,7 +215,9 @@
     "timeWeek": 594,
     "timeMonth": 563,
     "timeYear": 545,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-30": 0
+    }
   },
   {
     "name": "Documentation",
@@ -221,18 +225,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/doc.$internal_domain.ico",
     "slug": "documentation",
     "status": "down",
-    "uptime": "96.86%",
+    "uptime": "95.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.71%",
-    "uptimeMonth": "95.90%",
-    "uptimeYear": "96.86%",
+    "uptimeWeek": "72.89%",
+    "uptimeMonth": "93.41%",
+    "uptimeYear": "95.05%",
     "time": 552,
     "timeDay": 402,
     "timeWeek": 600,
     "timeMonth": 548,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2025-04-30": 101,
+      "2025-04-30": 1191,
       "2025-04-29": 1440,
       "2025-04-28": 101,
       "2025-04-04": 24,
