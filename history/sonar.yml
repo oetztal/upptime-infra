@@ -1,7 +1,7 @@
 url: https://sonar.$INTERNAL_DOMAIN
 status: up
 code: 200
-responseTime: 487
-lastUpdated: 2025-05-04T23:22:50.307Z
+responseTime: 767
+lastUpdated: 2025-05-05T23:23:25.621Z
 startTime: 2025-03-20T15:05:21.387Z
 generator: Upptime <https://github.com/upptime/upptime>
