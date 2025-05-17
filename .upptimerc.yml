@@ -42,9 +42,6 @@ sites:
   - name: Pad
     url: https://pad.$INTERNAL_DOMAIN
     ipv6: true
-  - name: Sonar
-    url: https://sonar.$INTERNAL_DOMAIN
-    ipv6: true
   - name: Documentation
     url: https://doc.$INTERNAL_DOMAIN
     ipv6: true
