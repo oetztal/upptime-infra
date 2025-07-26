@@ -1,7 +1,7 @@
 url: https://git.$INTERNAL_DOMAIN
-status: down
-code: 502
-responseTime: 616
-lastUpdated: 2025-07-26T05:57:31.854Z
+status: up
+code: 200
+responseTime: 787
+lastUpdated: 2025-07-26T06:24:33.743Z
 startTime: 2025-03-20T15:05:18.051Z
 generator: Upptime <https://github.com/upptime/upptime>
