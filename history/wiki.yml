@@ -1,7 +1,7 @@
 url: https://wiki.$INTERNAL_DOMAIN
-status: down
-code: 502
-responseTime: 816
-lastUpdated: 2025-10-11T10:34:11.437Z
+status: up
+code: 200
+responseTime: 1167
+lastUpdated: 2025-10-11T10:40:25.311Z
 startTime: 2025-03-21T08:03:55.158Z
 generator: Upptime <https://github.com/upptime/upptime>
