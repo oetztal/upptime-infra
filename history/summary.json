@@ -166,19 +166,19 @@
     "url": "mail.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imap",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 132,
-    "timeWeek": 132,
+    "timeDay": 113,
+    "timeWeek": 127,
     "timeMonth": 118,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-11-19": 0
+      "2025-11-19": 9
     }
   },
   {
