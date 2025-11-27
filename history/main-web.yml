@@ -1,7 +1,7 @@
 url: https://$PUBLIC_WEB
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-27T14:54:40.512Z
+status: up
+code: 200
+responseTime: 758
+lastUpdated: 2025-11-27T16:20:40.526Z
 startTime: 2025-03-20T15:02:37.371Z
 generator: Upptime <https://github.com/upptime/upptime>
