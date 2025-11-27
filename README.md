@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟥 Complete outage**
+# [📈 Live Status](https://oetztal.github.io/upptime-infra): <!--live status--> **🟥 Complete outage**
 
 This repository contains the open-source uptime monitor and status page powered by [Upptime](https://github.com/upptime/upptime).
 
