@@ -6,11 +6,6 @@ sites:
   - name: Main Web
     url: https://$PUBLIC_WEB
     ipv6: true
-  - name: Internal Web
-    url: $INTERNAL_DOMAIN
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
   - name: Topic1 Web
     url: https://$TOPIC1_WEB
     ipv6: true
