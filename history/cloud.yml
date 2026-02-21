@@ -1,7 +1,7 @@
 url: https://cloud.$INTERNAL_DOMAIN
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-21T20:49:51.590Z
+status: up
+code: 200
+responseTime: 7158
+lastUpdated: 2026-02-21T21:00:43.656Z
 startTime: 2025-03-20T15:05:16.108Z
 generator: Upptime <https://github.com/upptime/upptime>
