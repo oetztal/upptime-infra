@@ -141,16 +141,16 @@
     "url": "https://git.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/git.$internal_domain.ico",
     "slug": "git",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "93.00%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.43%",
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "87.05%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.41%",
     "time": 950,
-    "timeDay": 1351,
-    "timeWeek": 1166,
-    "timeMonth": 1220,
+    "timeDay": 1222,
+    "timeWeek": 1157,
+    "timeMonth": 1216,
     "timeYear": 966,
     "dailyMinutesDown": {
       "2025-07-26": 27,
@@ -170,7 +170,7 @@
       "2026-04-02": 405,
       "2026-04-01": 594,
       "2026-05-02": 107,
-      "2026-06-23": 101
+      "2026-06-23": 186
     }
   },
   {
@@ -342,16 +342,16 @@
     "url": "https://doc.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/doc.$internal_domain.ico",
     "slug": "documentation",
-    "status": "down",
-    "uptime": "88.56%",
-    "uptimeDay": "94.11%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "95.48%",
+    "status": "up",
+    "uptime": "88.54%",
+    "uptimeDay": "88.17%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "95.49%",
     "time": 616,
-    "timeDay": 572,
-    "timeWeek": 562,
-    "timeMonth": 764,
+    "timeDay": 715,
+    "timeWeek": 599,
+    "timeMonth": 767,
     "timeYear": 633,
     "dailyMinutesDown": {
       "2025-06-25": 1189,
@@ -386,7 +386,7 @@
       "2026-04-02": 405,
       "2026-04-01": 589,
       "2026-05-02": 46,
-      "2026-06-23": 85
+      "2026-06-23": 170
     }
   },
   {
