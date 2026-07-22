@@ -141,16 +141,16 @@
     "url": "https://git.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/git.$internal_domain.ico",
     "slug": "git",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.41%",
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "91.10%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.39%",
     "time": 959,
-    "timeDay": 701,
-    "timeWeek": 894,
-    "timeMonth": 1124,
+    "timeDay": 779,
+    "timeWeek": 899,
+    "timeMonth": 1118,
     "timeYear": 981,
     "dailyMinutesDown": {
       "2025-07-26": 27,
@@ -171,7 +171,7 @@
       "2026-04-01": 594,
       "2026-05-02": 107,
       "2026-06-23": 186,
-      "2026-07-22": 1
+      "2026-07-22": 128
     }
   },
   {
