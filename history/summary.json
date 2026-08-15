@@ -140,17 +140,17 @@
     "url": "https://git.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/git.$internal_domain.ico",
     "slug": "git",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "98.40%",
     "uptimeYear": "99.29%",
-    "time": 964,
-    "timeDay": 1079,
-    "timeWeek": 1115,
-    "timeMonth": 1003,
-    "timeYear": 991,
+    "time": 1018,
+    "timeDay": 16697,
+    "timeWeek": 5015,
+    "timeMonth": 1872,
+    "timeYear": 1066,
     "dailyMinutesDown": {
       "2025-08-23": 22,
       "2025-10-12": 220,
@@ -172,7 +172,7 @@
       "2026-07-22": 128,
       "2026-08-07": 27,
       "2026-08-06": 515,
-      "2026-08-15": 29
+      "2026-08-15": 31
     }
   },
   {
@@ -180,17 +180,17 @@
     "url": "https://mail.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/mail.$internal_domain.ico",
     "slug": "mail",
-    "status": "down",
+    "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "98.88%",
-    "time": 658,
-    "timeDay": 548,
-    "timeWeek": 598,
-    "timeMonth": 611,
-    "timeYear": 670,
+    "time": 670,
+    "timeDay": 3878,
+    "timeWeek": 1424,
+    "timeMonth": 817,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2025-10-12": 220,
       "2025-10-11": 35,
@@ -206,7 +206,7 @@
       "2026-04-25": 487,
       "2026-05-02": 106,
       "2026-06-23": 95,
-      "2026-08-15": 3
+      "2026-08-15": 5
     }
   },
   {
@@ -244,8 +244,8 @@
     "slug": "mail-imap",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.61%",
     "time": 117,
@@ -258,7 +258,7 @@
       "2025-11-28": 643,
       "2026-04-02": 405,
       "2026-04-01": 464,
-      "2026-08-15": 2
+      "2026-08-15": 5
     }
   },
   {
