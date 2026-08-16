@@ -4,16 +4,16 @@
     "url": "https://$PUBLIC_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/$public_web.ico",
     "slug": "main-web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.20%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.45%",
     "time": 744,
-    "timeDay": 0,
-    "timeWeek": 692,
-    "timeMonth": 652,
+    "timeDay": 793,
+    "timeWeek": 706,
+    "timeMonth": 657,
     "timeYear": 788,
     "dailyMinutesDown": {
       "2025-10-12": 219,
@@ -30,7 +30,7 @@
       "2026-04-08": 40,
       "2026-05-02": 140,
       "2026-06-23": 119,
-      "2026-08-16": 46
+      "2026-08-16": 69
     }
   },
   {
@@ -38,17 +38,17 @@
     "url": "https://$TOPIC1_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/$topic1_web.ico",
     "slug": "topic1-web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.46%",
     "time": 655,
-    "timeDay": 0,
-    "timeWeek": 636,
+    "timeDay": 562,
+    "timeWeek": 625,
     "timeMonth": 555,
-    "timeYear": 674,
+    "timeYear": 673,
     "dailyMinutesDown": {
       "2025-10-12": 220,
       "2025-10-11": 33,
@@ -63,7 +63,7 @@
       "2026-04-02": 405,
       "2026-05-02": 140,
       "2026-06-23": 114,
-      "2026-08-16": 6
+      "2026-08-16": 28
     }
   },
   {
@@ -247,9 +247,9 @@
     "slug": "mail-imap",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "77.53%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "99.26%",
+    "uptimeDay": "75.90%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "99.55%",
     "time": 117,
     "timeDay": 0,
@@ -261,7 +261,7 @@
       "2025-11-28": 643,
       "2026-04-02": 405,
       "2026-04-01": 464,
-      "2026-08-16": 264,
+      "2026-08-16": 288,
       "2026-08-15": 59
     }
   },
