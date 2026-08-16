@@ -1,7 +1,7 @@
 url: https://pad.$INTERNAL_DOMAIN
-status: down
-code: 500
-responseTime: 14310
-lastUpdated: 2026-08-16T19:04:29.693Z
+status: up
+code: 200
+responseTime: 474
+lastUpdated: 2026-08-16T19:14:16.993Z
 startTime: 2025-03-20T15:06:36.724Z
 generator: Upptime <https://github.com/upptime/upptime>
