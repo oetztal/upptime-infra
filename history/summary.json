@@ -143,11 +143,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.$internal_domain.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "73.01%",
-    "uptimeWeek": "96.14%",
-    "uptimeMonth": "97.58%",
-    "uptimeYear": "99.22%",
+    "uptime": "99.43%",
+    "uptimeDay": "69.41%",
+    "uptimeWeek": "95.63%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "99.21%",
     "time": 1280,
     "timeDay": 30993,
     "timeWeek": 16056,
@@ -175,7 +175,7 @@
       "2026-08-07": 27,
       "2026-08-06": 515,
       "2026-08-15": 55,
-      "2026-08-16": 333
+      "2026-08-16": 385
     }
   },
   {
@@ -183,11 +183,11 @@
     "url": "https://mail.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/mail.$internal_domain.ico",
     "slug": "mail",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "82.33%",
-    "uptimeWeek": "97.48%",
-    "uptimeMonth": "99.42%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "80.95%",
+    "uptimeWeek": "97.28%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "98.83%",
     "time": 732,
     "timeDay": 10938,
@@ -209,7 +209,7 @@
       "2026-04-25": 487,
       "2026-05-02": 106,
       "2026-06-23": 95,
-      "2026-08-16": 254
+      "2026-08-16": 274
     }
   },
   {
@@ -247,10 +247,10 @@
     "slug": "mail-imap",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "57.40%",
-    "uptimeWeek": "93.91%",
-    "uptimeMonth": "98.60%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "53.80%",
+    "uptimeWeek": "93.40%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "99.49%",
     "time": 117,
     "timeDay": 0,
     "timeWeek": 121,
@@ -261,7 +261,7 @@
       "2025-11-28": 643,
       "2026-04-02": 405,
       "2026-04-01": 464,
-      "2026-08-16": 554,
+      "2026-08-16": 606,
       "2026-08-15": 59
     }
   },
@@ -293,13 +293,13 @@
     "url": "https://mail.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/mail.$internal_domain.ico",
     "slug": "metrics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "92.26%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "91.42%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "98.88%",
-    "time": 267,
+    "time": 268,
     "timeDay": 864,
     "timeWeek": 559,
     "timeMonth": 422,
@@ -317,7 +317,7 @@
       "2026-04-25": 487,
       "2026-05-02": 104,
       "2026-06-23": 90,
-      "2026-08-16": 112
+      "2026-08-16": 124
     }
   },
   {
@@ -353,11 +353,11 @@
     "url": "https://doc.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/doc.$internal_domain.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "89.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.08%",
     "time": 620,
     "timeDay": 2159,
@@ -384,7 +384,8 @@
       "2026-04-02": 405,
       "2026-04-01": 589,
       "2026-05-02": 46,
-      "2026-06-23": 170
+      "2026-06-23": 170,
+      "2026-08-16": 5
     }
   },
   {
@@ -392,12 +393,12 @@
     "url": "https://sso.$INTERNAL_DOMAIN/realms/$INTERNAL_REALM/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/sso.$internal_domain.ico",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.51%",
+    "uptimeYear": "99.50%",
     "time": 490,
     "timeDay": 0,
     "timeWeek": 491,
@@ -413,7 +414,8 @@
       "2026-03-24": 36,
       "2026-04-02": 405,
       "2026-04-01": 588,
-      "2026-05-02": 133
+      "2026-05-02": 133,
+      "2026-08-16": 0
     }
   }
 ]
