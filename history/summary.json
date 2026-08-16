@@ -142,13 +142,13 @@
     "url": "https://git.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/git.$internal_domain.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "75.43%",
-    "uptimeWeek": "96.49%",
-    "uptimeMonth": "97.66%",
+    "uptimeDay": "73.62%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "97.60%",
     "uptimeYear": "99.22%",
-    "time": 1207,
+    "time": 1208,
     "timeDay": 28816,
     "timeWeek": 13709,
     "timeMonth": 4570,
@@ -175,7 +175,7 @@
       "2026-08-07": 27,
       "2026-08-06": 515,
       "2026-08-15": 55,
-      "2026-08-16": 299
+      "2026-08-16": 325
     }
   },
   {
@@ -183,12 +183,12 @@
     "url": "https://mail.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/mail.$internal_domain.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "83.79%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "98.84%",
+    "uptimeDay": "82.63%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "98.83%",
     "time": 728,
     "timeDay": 13537,
     "timeWeek": 4915,
@@ -209,7 +209,7 @@
       "2026-04-25": 487,
       "2026-05-02": 106,
       "2026-06-23": 95,
-      "2026-08-16": 233
+      "2026-08-16": 250
     }
   },
   {
@@ -247,10 +247,10 @@
     "slug": "mail-imap",
     "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "62.88%",
-    "uptimeWeek": "94.70%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "99.51%",
+    "uptimeDay": "59.94%",
+    "uptimeWeek": "94.28%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "99.50%",
     "time": 117,
     "timeDay": 0,
     "timeWeek": 121,
@@ -261,7 +261,7 @@
       "2025-11-28": 643,
       "2026-04-02": 405,
       "2026-04-01": 464,
-      "2026-08-16": 475,
+      "2026-08-16": 518,
       "2026-08-15": 59
     }
   },
@@ -293,11 +293,11 @@
     "url": "https://mail.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/mail.$internal_domain.ico",
     "slug": "metrics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "92.26%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "91.70%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "98.88%",
     "time": 264,
     "timeDay": 459,
@@ -317,7 +317,7 @@
       "2026-04-25": 487,
       "2026-05-02": 104,
       "2026-06-23": 90,
-      "2026-08-16": 112
+      "2026-08-16": 120
     }
   },
   {
@@ -353,10 +353,10 @@
     "url": "https://doc.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/doc.$internal_domain.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "89.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.08%",
     "time": 618,
@@ -384,7 +384,8 @@
       "2026-04-02": 405,
       "2026-04-01": 589,
       "2026-05-02": 46,
-      "2026-06-23": 170
+      "2026-06-23": 170,
+      "2026-08-16": 2
     }
   },
   {
