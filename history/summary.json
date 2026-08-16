@@ -142,11 +142,11 @@
     "url": "https://git.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/git.$internal_domain.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "67.52%",
-    "uptimeWeek": "95.36%",
-    "uptimeMonth": "97.40%",
+    "uptimeDay": "66.43%",
+    "uptimeWeek": "95.20%",
+    "uptimeMonth": "97.37%",
     "uptimeYear": "99.20%",
     "time": 1309,
     "timeDay": 25458,
@@ -175,7 +175,7 @@
       "2026-08-07": 27,
       "2026-08-06": 515,
       "2026-08-15": 55,
-      "2026-08-16": 412
+      "2026-08-16": 428
     }
   },
   {
@@ -183,11 +183,11 @@
     "url": "https://mail.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/mail.$internal_domain.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "79.40%",
-    "uptimeWeek": "97.06%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "78.85%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "98.82%",
     "time": 737,
     "timeDay": 7947,
@@ -209,7 +209,7 @@
       "2026-04-25": 487,
       "2026-05-02": 106,
       "2026-06-23": 95,
-      "2026-08-16": 297
+      "2026-08-16": 305
     }
   },
   {
@@ -246,11 +246,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imap",
     "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "49.63%",
-    "uptimeWeek": "92.80%",
-    "uptimeMonth": "98.34%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.62%",
+    "uptimeDay": "44.40%",
+    "uptimeWeek": "92.06%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "99.46%",
     "time": 117,
     "timeDay": 0,
     "timeWeek": 121,
@@ -261,7 +261,7 @@
       "2025-11-28": 643,
       "2026-04-02": 405,
       "2026-04-01": 464,
-      "2026-08-16": 666,
+      "2026-08-16": 741,
       "2026-08-15": 59
     }
   },
@@ -293,12 +293,12 @@
     "url": "https://mail.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/mail.$internal_domain.ico",
     "slug": "metrics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "90.16%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "98.87%",
+    "uptimeDay": "91.01%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "98.88%",
     "time": 349,
     "timeDay": 8386,
     "timeWeek": 4033,
@@ -317,7 +317,7 @@
       "2026-04-25": 487,
       "2026-05-02": 104,
       "2026-06-23": 90,
-      "2026-08-16": 142
+      "2026-08-16": 130
     }
   },
   {
@@ -355,9 +355,9 @@
     "slug": "documentation",
     "status": "up",
     "uptime": "89.74%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.08%",
     "time": 684,
     "timeDay": 10578,
@@ -384,8 +384,7 @@
       "2026-04-02": 405,
       "2026-04-01": 589,
       "2026-05-02": 46,
-      "2026-06-23": 170,
-      "2026-08-16": 8
+      "2026-06-23": 170
     }
   },
   {
