@@ -1,7 +1,7 @@
 url: mail.$INTERNAL_DOMAIN
 status: up
 code: 200
-responseTime: 153
-lastUpdated: 2026-08-22T23:26:57.277Z
+responseTime: 97
+lastUpdated: 2026-08-23T23:27:06.576Z
 startTime: 2025-03-20T22:23:38.456Z
 generator: Upptime <https://github.com/upptime/upptime>
