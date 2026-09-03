@@ -13,7 +13,7 @@ sites:
     url: https://$INTERNAL_DOMAIN
     ipv6: true
   - name: Cloud
-    url: https://cloud.$INTERNAL_DOMAIN
+    url: https://oc.$INTERNAL_DOMAIN
     ipv6: true
   - name: Git
     url: https://git.$INTERNAL_DOMAIN
