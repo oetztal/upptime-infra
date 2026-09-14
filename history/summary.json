@@ -244,17 +244,17 @@
     "url": "mail.$INTERNAL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imap",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "99.40%",
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "78.05%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "96.74%",
+    "uptimeYear": "99.34%",
     "time": 118,
-    "timeDay": 120,
+    "timeDay": 121,
     "timeWeek": 124,
     "timeMonth": 129,
-    "timeYear": 118,
+    "timeYear": 119,
     "dailyMinutesDown": {
       "2025-11-27": 520,
       "2025-11-28": 643,
@@ -262,7 +262,7 @@
       "2026-04-01": 464,
       "2026-08-16": 1054,
       "2026-08-15": 59,
-      "2026-09-14": 1
+      "2026-09-14": 316
     }
   },
   {
@@ -354,7 +354,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doc.$internal_domain.ico",
     "slug": "documentation",
     "status": "up",
-    "uptime": "90.28%",
+    "uptime": "90.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
