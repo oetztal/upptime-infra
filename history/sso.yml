@@ -1,7 +1,7 @@
 url: https://sso.$INTERNAL_DOMAIN/realms/$INTERNAL_REALM/.well-known/openid-configuration
 status: up
 code: 200
-responseTime: 692
-lastUpdated: 2026-09-14T00:53:39.406Z
+responseTime: 510
+lastUpdated: 2026-09-15T01:20:01.956Z
 startTime: 2025-03-20T15:05:22.303Z
 generator: Upptime <https://github.com/upptime/upptime>
